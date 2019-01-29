@@ -8,4 +8,4 @@ kigo = input(">> ")
 
 print(length * kigo)
 
-input()
+print("何かキーを押してください......")
