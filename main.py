@@ -9,3 +9,5 @@ kigo = input(">> ")
 print(length * kigo)
 
 print("何かキーを押してください......")
+
+input()
